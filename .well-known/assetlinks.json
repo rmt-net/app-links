@@ -1,0 +1,12 @@
+[
+  {
+    "relation": [ "delegate_permission/common.handle_all_urls" ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.camphoms.app",
+      "sha256_cert_fingerprints": [
+        "30:52:E3:5B:5D:19:2E:69:F5:05:9B:86:8E:C2:3C:C8:83:86:19:8C:44:C4:10:AC:70:50:79:1F:1A:BC:80:9A"
+      ]
+    }
+  }
+]
